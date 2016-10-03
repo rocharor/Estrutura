@@ -1,9 +1,7 @@
 .settings/
 vendor/
-stylus/
 node_modules/
 .project
 .buildpath
 composer.lock
 *.ini
-gulpfile.js
