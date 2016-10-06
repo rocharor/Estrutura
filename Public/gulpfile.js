@@ -61,7 +61,7 @@ gulp.task('imagemin', function () {
 
 //Observa todos .styl e gera css no formato compress (compress: true/false)
 gulp.task('stylus', function () {
-  gulp.src('css/stylus/*.styl')
+  gulp.src('stylus/*.styl')
     .pipe(stylus({
       compress: true
     }))

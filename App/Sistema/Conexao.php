@@ -61,7 +61,7 @@
                         break;
                 }
                 //$conn->setAttribute(\PDO::ATTR_ERRMODE, \PDO::ERRMODE_EXCEPTION);
-                $conn->exec("SET CHARACTER SET utf8");//              
+                $conn->exec("SET CHARACTER SET utf8");//
 
             return $conn;
         }

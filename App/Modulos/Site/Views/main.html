@@ -15,22 +15,28 @@
 
     <title>Titulo</title>
 
-		<!-- BIBLIOTECAS -->
-		<script src="/libs/libs.min.js"></script>
+		<!-- BIBLIOTECAS CSS-->
 		<link rel="stylesheet" href="/libs/libs.min.css">
-
 		<!-- CSS PADRÃO -->
 		<link type="text/css" rel="stylesheet" href="/css/style.css" />
+
 	</head>
 	<body>
-		{include file="topo.html"}
+		<header>
+			{include file="topo.html"}
+		</header>
 
 		<div class="container">
 			{include file="$principal"}
 		</div>
 
-		{include file="rodape.html"}
+		<footer>
+			{include file="rodape.html"}
+		</footer>
 
+		<!-- BIBLIOTECAS JS-->
+		<script src="/libs/libs.min.js"></script>
+		<!-- JS PADRÃO-->
 		<script src="/js/padrao.js"></script>
 	</body>
 </html>
