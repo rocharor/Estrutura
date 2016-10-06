@@ -1,4 +1,5 @@
 Preparação do ambiente
+
   Instalar o Git;
   Instalar o composer;
   Instalar o npm (node);
