@@ -1,4 +1,4 @@
-Preparação do ambiente
+<b>Preparação do ambiente</b>
 
   Instalar o Git;
   
@@ -11,8 +11,7 @@ Preparação do ambiente
   Instalar o Stylus (npm install stylus -g, npm install stylus --save-dev) (stylus -w style.styl -o style.css);
 
 
-
-Configuração do projeto (DEV)
+<b>Configuração do projeto (DEV)</b>
 
   1º - Ajustar configuração do banco, copiar arquivo "mysql.ini.sample" para "mysql.ini" e inserir as informações do banco;
   
@@ -27,9 +26,9 @@ Configuração do projeto (DEV)
   6º - Iniciar MySql e servidor PHP na pasta Public (php -S 127.0.0.1:8001);
   
 
-Subir projeto para servidor (PRODUÇÃO)
+<b>Subir projeto para servidor (PRODUÇÃO)</b>
 
-  Modificar arquivo ignorar pastas/arquivos:
+<i>Ignorar pastas/arquivos:</i>
   
   - Public/stylus
   
