@@ -1,14 +1,14 @@
 <b>Preparação do ambiente</b>
 
-  Instalar o Git;
+  - Instalar o Git;
   
-  Instalar o composer;
+  - Instalar o composer;
   
-  Instalar o npm (node);
+  - Instalar o npm (node);
   
-  Instalar o Gulp (npm install gulp -g, npm install gulp --save-dev) ( gulp <tarefa> );
+  - Instalar o Gulp (npm install gulp -g, npm install gulp --save-dev) ( gulp <tarefa> );
   
-  Instalar o Stylus (npm install stylus -g, npm install stylus --save-dev) (stylus -w style.styl -o style.css);
+  - Instalar o Stylus (npm install stylus -g, npm install stylus --save-dev) (stylus -w style.styl -o style.css);
 
 
 <b>Configuração do projeto (DEV)</b>
